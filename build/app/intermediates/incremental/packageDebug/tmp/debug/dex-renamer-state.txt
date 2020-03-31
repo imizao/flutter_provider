@@ -1,4 +1,0 @@
-#Wed Mar 25 09:56:43 CST 2020
-base.0=/Users/apple/Desktop/test/provider_demo/build/app/intermediates/transforms/dexMerger/debug/0
-path.0=classes.dex
-renamed.0=classes.dex
